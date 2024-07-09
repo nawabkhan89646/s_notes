@@ -1,0 +1,8 @@
+.note {
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+  }
